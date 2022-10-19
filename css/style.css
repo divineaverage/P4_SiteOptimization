@@ -284,7 +284,7 @@ a:hover {
 }
 
 #bloc-2-services p {
-    font-size: 11px;
+    font-size: 16px;
 }
 
 .navbar {
@@ -639,20 +639,6 @@ a[data-lightbox]:hover img {
     background: none;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p,
-label,
-.btn,
-a {
-    font-family: "helvetica";
-    font-weight: 400;
-    color: #575757!important;
-}
 
 .container {
     max-width: 1000px;
@@ -677,7 +663,7 @@ a {
 }
 
 p {
-    font-size: 12px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -707,13 +693,14 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    color: white;
 }
 
 h3 {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #333333!important;
+    color: #060723!important;
 }
 
 .med-width-whitespace {
@@ -723,11 +710,11 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: #060723!important;
 }
 
 h4 {
-    color: #333333!important;
+    color: white!important;
 }
 
 .icons {
@@ -763,7 +750,7 @@ h4 {
 }
 
 .service-header {
-    font-size: 15px;
+    font-size: 18px;
     font-weight: 700;
     text-transform: uppercase;
 }
@@ -773,20 +760,21 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #364577;
+    background-color: #060723;
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #FF9528;
 }
 
-.tc-white {
-    color: #364577!important;
+.tc-middle {
+    color: white;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
-    color: #FFFFFF!important;
+    background: #FF9528;
+    color: #060723!important;
+    font-size: 20px;
 }
 
 .btn-atomic-tangerine:hover {
@@ -803,7 +791,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #FF9528!important;
 }
 
 .ltc-atomic-tangerine:hover {
@@ -811,8 +799,8 @@ h4 {
 }
 
 .icon-dark-slate-blue {
-    color: #364577!important;
-    border-color: #364577!important;
+    color: #060723!important;
+    border-color: #060723!important;
 }
 
 .bg-dots-bg {
@@ -824,11 +812,11 @@ h4 {
 }
 
 .bg-atlanta-20made-20sign {
-    background-image: url("img/atlanta%20made%20sign.jpg");
+    background-image: url(../img/Atlanta_Aerial_Blue.png);
 }
 
 .bg-atlanta-20made-20sign-20orange {
-    background-image: url("img/atlanta%20made%20sign%20orange.jpg");
+    background-image: url(../img/Atlanta_Aerial_Orange.png);
 }
 
 @media (max-width: 1024px) {
