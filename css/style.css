@@ -91,7 +91,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    background: url("img/texture-paper.avif");
     background-size: 280px 280px;
 }
 
@@ -803,20 +803,12 @@ h4 {
     border-color: #060723!important;
 }
 
-.bg-dots-bg {
-    background-image: url("img/dots-bg.png");
-}
-
-.bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
-}
-
 .bg-atlanta-20made-20sign {
-    background-image: url(../img/Atlanta_Aerial_Blue.png);
+    background-image: url(../img/Atlanta_Aerial_Blue.avif);
 }
 
 .bg-atlanta-20made-20sign-20orange {
-    background-image: url(../img/Atlanta_Aerial_Orange.png);
+    background-image: url(../img/Atlanta_Aerial_Orange.avif);
 }
 
 @media (max-width: 1024px) {
