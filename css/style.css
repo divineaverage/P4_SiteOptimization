@@ -725,6 +725,10 @@ ul {
     padding: 0; 
 }
 
+label {
+    font-size: 16px;
+}
+
 .icons {
     margin-bottom: 14px;
     margin-top: 24px;
