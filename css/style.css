@@ -688,6 +688,8 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    color: white;
+    font-size: 24px;
 }
 
 h2 {
@@ -715,6 +717,12 @@ h1 {
 
 h4 {
     color: white!important;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0; 
 }
 
 .icons {
@@ -810,6 +818,30 @@ h4 {
 .bg-atlanta-20made-20sign-20orange {
     background-image: url(../img/Atlanta_Aerial_Orange.avif);
 }
+
+.footer__logo {
+    text-align: center;
+    margin: 30px 0px 30px 0px;
+}
+
+.footer__lists {
+    text-align: center;
+    margin: 30px 0px 30px 0px;
+}
+
+.contact__header {
+    font-size: 24px;
+    font-weight: 800px;
+    color: white;
+}
+
+.contact__body {
+    font-size: 18px;
+    color: white;
+}
+
+/*/ MEDIA QUERIES /*/
+
 
 @media (max-width: 1024px) {
     .bloc {
