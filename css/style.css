@@ -729,6 +729,22 @@ label {
     font-size: 16px;
 }
 
+a:link {
+    color: white;
+  }
+  
+  a:visited {
+    color: white;
+  }
+  
+  a:hover {
+    color: white;
+  }
+  
+  a:active {
+    color: white;
+  }
+
 .icons {
     margin-bottom: 14px;
     margin-top: 24px;
